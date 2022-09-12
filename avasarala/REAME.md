@@ -19,9 +19,9 @@ It took months of work but I don't feel right forcing payments for it when Starb
 
 ## Downloads
 
-[Download Blueprint](https://github.com/HaywireEndo/starbase-ships/raw/main/avasarala/blueprints/Avasarala-Mk1.fbe).
+[Download Blueprint](blueprints/Avasarala_Mk1.fbe).
 
-[Download Blueprint (Black and Red Version)](https://github.com/HaywireEndo/starbase-ships/raw/main/avasarala/blueprints/Avasarala-Razor-Mk1.fbe).
+[Download Blueprint (Black and Red Version)](blueprints/Avasarala_Mk1_Razor.fbe).
 
 The blueprint files are also available in the 'blueprints' folder
 
@@ -41,8 +41,8 @@ Thank you for your support!!!
 - Rename the file to ship_1 (or another number)
 - In-game, go to the ship design workshop and open the designer
 - Go to File -> Open or manage blueprints -> autosaves
-- Open the blank file (The ship should appear now)
-- Then go to Save As and save the ship as your own blueprint.
+- Open the file (name might be blank), the ship should appear now
+- Then go to Save As and save the ship as your own blueprint
 
 ### Features
 - Automatic Hover (for areas with gravity)

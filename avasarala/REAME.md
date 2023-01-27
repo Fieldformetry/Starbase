@@ -7,11 +7,11 @@
 [As seen at EosCon](https://coda.io/d/EosCon-July-2022-Flyer_dKX9qJsmRR1/Haywire-Dynamics_suyru#Haywire-Dynamics-Ships_tue2h/r44&view=modal)
 
 The Avasarala is my attempt at making a very form-over-function ship with intricate platework.
-I burnt out after working on it for months so its yolol systems could use more work, which means it could be a great foundation for a ship design of your own.
+I burnt out after working on it for months so its yolol systems could use more work, which means it could be a great foundation for a ship design of your own as it is mainly hollow on its own.
 
 [The blueprint is free](#downloads). I greatly appreciate [in-game donations](#how-to-support--donate) as support if you like the ship. ❤️
 
-It took months of work but I don't feel right forcing payments for it when Starbase needs as many players enjoying it as possible so I take optional donations. My rule of thumb: try the ship out for free and then make a donation if you like it!
+It took months of work but I don't feel right forcing payments for it when Starbase needs as many players enjoying it as possible so I take optional donations. My rule of thumb: try the ship out for free and then make a donation if you like it or use it in your designs!
 
 <img src="images/ava-side.png" alt="Side shots of Avasarala, a large, sleek, and luxurious space ship accented with gold filigree." width="%100" />
 <img src="images/ava.png" alt="Angled shot of Avasarala, a large, sleek, and luxurious space ship accented with gold filigree." width="%100" />
@@ -78,6 +78,5 @@ Yes, you can on three conditions:
 
 - You must give it away for free (like this one is) (taking **optional** donations is fine)
 - You must make some reference to this ship or me. For example: "Here is my ship, based on an Avasarala by Haywire"
-- You must accept that those versions will be considered feedback and elements of them may be incorporated into future official releases without notification.
 
 ___

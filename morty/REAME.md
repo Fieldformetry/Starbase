@@ -2,18 +2,36 @@
 [![Mark](https://img.shields.io/static/v1?label=Current%20Version:&message=Mark%203&color=blue)](#changelog)
 [![Blueprint](https://img.shields.io/static/v1?label=Blueprint:&message=Free%20Download&color=brightgreen)](#download-blueprint)
 
-Morty is an extremely simple and inexpensive long range scout ship/shuttle. Great for station hopping, long commutes, reconnaissance missions, or just sightseeing. [The blueprint is free](#download-blueprint). [All feedback is welcome](#providing-feedback). I don't have a lot of free time so support is limited.
+Morty is an extremely simple and inexpensive long range scout ship/shuttle. Great for station hopping, long commutes, reconnaissance missions, sightseeing, or anything else. [The blueprint is free](#downloads). [Donations are greatly appreciated](#how-to-support--donate)! [Feedback is welcome](#providing-feedback).
 
 [Starbase Ship Shop Page](https://sb-creators.org/makers/Haywire%20Dynamics/ship/%5BFREE%5D%20Morty)
 
-<img src="images/morty-mk3-banner.png" alt="Angled shot of Morty, a small sleek Starbase ship with 5 seats." width="%100" />
-<img src="images/morty-mk3-side.png" alt="Side shot of Morty, a small sleek Starbase ship with 5 seats." width="%100" />
+[<img src="images/morty-mk3-banner.avif" alt="Angled shot of Morty, a small sleek Starbase ship with 5 seats." width="%100" />](images/morty-mk3-banner.avif)
+[<img src="images/morty-mk3-side.avif" alt="Side shot of Morty, a small sleek Starbase ship with 5 seats." width="%100" />](images/morty-mk3-side.avif)
 
 ## Downloads
 
-[Download Blueprint](https://github.com/HaywireEndo/starbase-ships/raw/main/morty/blueprints/Morty-Mk3.fbe).
+[Download Blueprint](blueprints/Morty-Mk3.fbe).
 
-The blueprint file is also available in the 'blueprints' folder
+Note: The blueprint file is also available in the 'blueprints' folder
+
+## How to Support / Donate
+
+- In Starbase, open your social tab ("O" by default)
+- Go to Inbox -> Compose
+- Put "Haywire" as the recipient, add a subject line of your choosing, add your monetary donation to the credits amount, and send.
+
+Thank you for your support!!!
+
+## How to Import Blueprint
+- Navigate to `C:\Users\"Your Name Here"\AppData\Roaming\Starbase\ssc\autosave\ship_blueprints`
+- Delete all files in that folder (optional)
+- Place the blueprint (.FBE) file in that folder
+- Rename the file to ship_1 (or another number)
+- In-game, go to the ship design workshop and open the designer
+- Go to File -> Open or manage blueprints -> autosaves
+- Open the file (name might be blank), the ship should appear now
+- Then go to Save As and save the ship as your own blueprint
 
 ## Stats
 
@@ -109,14 +127,3 @@ Designed to be as inexpensive as possible without sacrificing quality
 My in-game name is Haywire, feel free to send me an in-game email!
 
 I would love to hear any suggestions you may have! Keep in mind however, that I may choose to not implement them due to lack of time or personal discretion.
-
-## Derivatives 
-
-Can I create and share modified versions of this ship?
-Yes, you can on three conditions:
-
-- You must give it away for free (like this one is)
-- You must make some reference to this ship or me. For example: "Here is my ship, based on a Morty by Haywire"
-- You must accept that those versions will be considered feedback and elements of them may be incorporated into future official releases without notification.
-
-___
